@@ -1,13 +1,14 @@
 body {background-color: rgb(207, 255, 183);}
 
 #title {
-  width: 25%;
-  margin-bottom: 0px;
+  width: 30%;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding: 0px;
 }
 
 #choose_plant {
-  width: 15%;
+  width: 20%;
   margin-top: 0px;
 }
 
@@ -16,8 +17,18 @@ div {
   justify-content: center;
 }
 
+#pomodoro {
+  width: 230px;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+#cactime {
+  margin-left: 30px;
+}
+
 img {
   border-radius: 20px;
   padding: 5px;
-  width: 150px;
+  width: 200px;
 }
