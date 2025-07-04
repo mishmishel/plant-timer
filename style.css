@@ -27,9 +27,24 @@ div {
   margin-left: 30px;
 }
 
-#timer img {
-  margin-top: 20px;
+#start {
+  margin-top: 0px;
+  margin-bottom: 70px;
+  height: 70px;
+  width: 100px;
+}
+
+.num {
+  margin-top: 0px;
+  margin-bottom: 0px;
   width: 80px;
+}
+
+#colon {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  width: 40px;
+  height: 60px;
 }
 
 #time-selection {
@@ -41,15 +56,20 @@ div {
   left: 0;
 }
 
+#back-button {
+  width: 70px;
+}
+
 #up {
-  margin-top: 20px;
-  width: 60px;
+  margin-top: 0px;
+  width: 50px;
   margin-left: 20px;
 }
 
 #down {
   margin-left: 20px;
-  width: 60px;
+  width: 50px;
+  margin-bottom: 0px;
 }
 
 img {
